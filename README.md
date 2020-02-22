@@ -1,0 +1,1 @@
+# This An Employee Mangement MEAN App Where I created Employee, Can Edit And Update The existing Employee. I Can delete Employee And Finally Employees Are Displayed In a Table Where information about Then Are Displayed. I uSED Angular To Build The Cleint Side While I used Nodejs And Express for Server Function and MongoDB was the Database Used To Store Datas
